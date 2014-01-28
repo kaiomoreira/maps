@@ -1,0 +1,36 @@
+[{ nome: 'Pessoa 1',
+    cpf: '000.000.000.00',
+    inicioDaViagem: '9:00',
+    regra_4horas: '2:30',
+    regra_8horas: '5:20',
+    almoco: true,
+    tempoDeDescanso: false,
+    fimDaUltimaViagem: '00:00',
+    horaExtra: true,
+    horaExtraNoturna: false
+},
+{
+    nome: 'Pessoa 2',
+    cpf: '000.000.000.00',
+    inicioDaViagem: '9:00',
+    regra_4horas: '2:30',
+    regra_8horas: '5:20',
+    almoco: true,
+    tempoDeDescanso: false,
+    fimDaUltimaViagem: '00:00',
+    horaExtra: true,
+    horaExtraNoturna: false
+}
+,
+{
+    nome: 'Pessoa 3',
+    cpf: '000.000.000.00',
+    inicioDaViagem: '9:00',
+    regra_4horas: '2:30',
+    regra_8horas: '5:20',
+    almoco: true,
+    tempoDeDescanso: false,
+    fimDaUltimaViagem: '00:00',
+    horaExtra: true,
+    horaExtraNoturna: false
+}]

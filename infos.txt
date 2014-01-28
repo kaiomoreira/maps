@@ -1,0 +1,11 @@
+nome
+CPF
+hora de início
+4 horas (regra 1)
+
+8 horas (regra 2)
+almoço (regra 3)
+tempo de descanso(regra 4)
+fim da ultima viagem(regra 5)
+hora extra
+hora extra noturna 
